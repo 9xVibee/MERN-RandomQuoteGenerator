@@ -1,0 +1,33 @@
+.containerr {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fefe33;
+}
+
+.wrapperr {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapperr>a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button {
+    border: none;
+    outline: none;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
